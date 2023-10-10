@@ -18,14 +18,14 @@ namespace Level13
         public int AskForANumberInRange(string text, int min, int max)
         {
 
-            Console.WriteLine(text);
-            int input = Convert.ToInt32(Console.ReadLine());
-            if (input <= min && input >= max)
+            while (true)
             {
-                return input;
+                int number = AskForANumber(text);
+                if (number <= min && number >= max)
+                {
+                    return number;
+                }
             }
-            else return AskForANumberInRange(text, min, max);
-
         }
     }
 }

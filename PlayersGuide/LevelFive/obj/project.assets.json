@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\LevelFive\\LevelFive.csproj",
+      "projectUniqueName": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelFive\\LevelFive.csproj",
       "projectName": "LevelFive",
-      "projectPath": "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\LevelFive\\LevelFive.csproj",
+      "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelFive\\LevelFive.csproj",
       "packagesPath": "C:\\Users\\thijm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\LevelFive\\obj\\",
+      "outputPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelFive\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

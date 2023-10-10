@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\Level13\\Level13.csproj",
+      "projectUniqueName": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj",
       "projectName": "Level13",
-      "projectPath": "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\Level13\\Level13.csproj",
+      "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj",
       "packagesPath": "C:\\Users\\thijm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\Level13\\obj\\",
+      "outputPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

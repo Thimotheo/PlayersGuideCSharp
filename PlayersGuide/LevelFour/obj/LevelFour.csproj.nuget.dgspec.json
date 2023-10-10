@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thijm\\Source\\Repos\\Extensions\\PlayersGuide\\LevelFour\\LevelFour.csproj": {}
+    "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelFour\\LevelFour.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thijm\\Source\\Repos\\Extensions\\PlayersGuide\\LevelFour\\LevelFour.csproj": {
+    "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelFour\\LevelFour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thijm\\Source\\Repos\\Extensions\\PlayersGuide\\LevelFour\\LevelFour.csproj",
+        "projectUniqueName": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelFour\\LevelFour.csproj",
         "projectName": "LevelFour",
-        "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Extensions\\PlayersGuide\\LevelFour\\LevelFour.csproj",
+        "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelFour\\LevelFour.csproj",
         "packagesPath": "C:\\Users\\thijm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\LevelFour\\obj\\",
+        "outputPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelFour\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
