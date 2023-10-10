@@ -1,0 +1,12 @@
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\bin\Debug\net7.0\MyValidationExtensions.deps.json
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\bin\Debug\net7.0\MyValidationExtensions.dll
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\bin\Debug\net7.0\MyValidationExtensions.pdb
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\obj\Debug\net7.0\MyValidationExtensions.csproj.AssemblyReference.cache
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\obj\Debug\net7.0\MyValidationExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\obj\Debug\net7.0\MyValidationExtensions.AssemblyInfoInputs.cache
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\obj\Debug\net7.0\MyValidationExtensions.AssemblyInfo.cs
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\obj\Debug\net7.0\MyValidationExtensions.csproj.CoreCompileInputs.cache
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\obj\Debug\net7.0\MyValidationExtensions.dll
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\obj\Debug\net7.0\refint\MyValidationExtensions.dll
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\obj\Debug\net7.0\MyValidationExtensions.pdb
+C:\Users\thijm\source\repos\Extensions\Extensions\ValidationExtensions\obj\Debug\net7.0\ref\MyValidationExtensions.dll

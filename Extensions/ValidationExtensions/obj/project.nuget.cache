@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yHisvg4h2SQiGU44z4iGiu9EwVdqRHDLuklsqCPKL2VhHMVurhPuwyxo1eURVGSYvJrv/vIZlfOJtUKlc+M5PQ==",
+  "dgSpecHash": "q7ROY9h8uY2qhug9xd9CPuR9qyppA+CuDmrQTFBQjTFKIHjRkgw7DJ6EOBr6xvW+UJM3f/+YiQ4T9hm2sZJmbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thijm\\source\\repos\\Extensions\\Extensions\\ValidationExtensions\\ValidationExtensions.csproj",
+  "projectFilePath": "C:\\Users\\thijm\\source\\repos\\Extensions\\Extensions\\ValidationExtensions\\MyValidationExtensions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

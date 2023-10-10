@@ -1,0 +1,15 @@
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\bin\Debug\net7.0\LevelThree.exe
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\bin\Debug\net7.0\LevelThree.deps.json
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\bin\Debug\net7.0\LevelThree.runtimeconfig.json
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\bin\Debug\net7.0\LevelThree.dll
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\bin\Debug\net7.0\LevelThree.pdb
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\obj\Debug\net7.0\LevelThree.csproj.AssemblyReference.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\obj\Debug\net7.0\LevelThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\obj\Debug\net7.0\LevelThree.AssemblyInfoInputs.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\obj\Debug\net7.0\LevelThree.AssemblyInfo.cs
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\obj\Debug\net7.0\LevelThree.csproj.CoreCompileInputs.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\obj\Debug\net7.0\LevelThree.dll
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\obj\Debug\net7.0\refint\LevelThree.dll
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\obj\Debug\net7.0\LevelThree.pdb
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\obj\Debug\net7.0\LevelThree.genruntimeconfig.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelThree\obj\Debug\net7.0\ref\LevelThree.dll

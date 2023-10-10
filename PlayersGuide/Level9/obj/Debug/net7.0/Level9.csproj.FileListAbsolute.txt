@@ -1,0 +1,15 @@
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\bin\Debug\net7.0\Level9.exe
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\bin\Debug\net7.0\Level9.deps.json
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\bin\Debug\net7.0\Level9.runtimeconfig.json
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\bin\Debug\net7.0\Level9.dll
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\bin\Debug\net7.0\Level9.pdb
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\obj\Debug\net7.0\Level9.csproj.AssemblyReference.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\obj\Debug\net7.0\Level9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\obj\Debug\net7.0\Level9.AssemblyInfoInputs.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\obj\Debug\net7.0\Level9.AssemblyInfo.cs
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\obj\Debug\net7.0\Level9.csproj.CoreCompileInputs.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\obj\Debug\net7.0\Level9.dll
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\obj\Debug\net7.0\refint\Level9.dll
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\obj\Debug\net7.0\Level9.pdb
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\obj\Debug\net7.0\Level9.genruntimeconfig.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\Level9\obj\Debug\net7.0\ref\Level9.dll

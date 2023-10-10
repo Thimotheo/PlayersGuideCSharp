@@ -1,17 +1,19 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace ValidationExtensions
+namespace MyValidationExtensions
 {
     public static class StringExtensions
     {
+        private const string EmailRegex = "\\w+(?:\\w+|\\.)\\w+\\@\\w+\\.\\w{2,4}";
+        private const string StrictEmailRegex = $"^{EmailRegex}$";
+
         public static bool IsValidEmail(this string email)
         {
-            string pattern = @"^\w+(?:\w+|\.)\w+\@\w+\.\w{2,4}$";
-            if (email == null)
+            if (email == null || email == string.Empty)
             {
-                throw new ArgumentNullException();
+                throw new ArgumentNullException("Value cannot be empty");
             }
-            if (Regex.IsMatch(email!, pattern))
+            if (Regex.IsMatch(email!, StrictEmailRegex))
             {
                 return true;
             }
@@ -32,7 +34,7 @@ namespace ValidationExtensions
         public static bool IsValidPassword(this string password)
         {
             string pattern = @"^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[*.!@$%\^&(){}[\]:;<>,.?/~_+\-=|\\]).{8,}$";
-            if (password == null) { throw new ArgumentNullException(); }
+            if (password == null || password == string.Empty) { throw new ArgumentNullException("Value cannot be empty"); }
             if (Regex.IsMatch(password!, pattern))
             {
                 return true;
@@ -42,9 +44,8 @@ namespace ValidationExtensions
 
         public static string ReplaceEmails(this string text)
         {
-            //string pattern = @"^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[*.!@$%\^&(){}[\]:;<>,.?/~_+\-=|\\]).{8,}$";
+            Regex emailReplace = new(EmailRegex, RegexOptions.IgnoreCase);
 
-            Regex emailReplace = new Regex(@"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,6}", RegexOptions.IgnoreCase);
             string replacedText = emailReplace.Replace(text, "********");
             return replacedText;
         }

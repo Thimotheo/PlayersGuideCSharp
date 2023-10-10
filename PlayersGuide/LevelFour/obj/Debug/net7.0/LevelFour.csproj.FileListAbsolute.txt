@@ -1,0 +1,15 @@
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\bin\Debug\net7.0\LevelFour.exe
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\bin\Debug\net7.0\LevelFour.deps.json
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\bin\Debug\net7.0\LevelFour.runtimeconfig.json
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\bin\Debug\net7.0\LevelFour.dll
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\bin\Debug\net7.0\LevelFour.pdb
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\obj\Debug\net7.0\LevelFour.csproj.AssemblyReference.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\obj\Debug\net7.0\LevelFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\obj\Debug\net7.0\LevelFour.AssemblyInfoInputs.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\obj\Debug\net7.0\LevelFour.AssemblyInfo.cs
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\obj\Debug\net7.0\LevelFour.csproj.CoreCompileInputs.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\obj\Debug\net7.0\LevelFour.dll
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\obj\Debug\net7.0\refint\LevelFour.dll
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\obj\Debug\net7.0\LevelFour.pdb
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\obj\Debug\net7.0\LevelFour.genruntimeconfig.cache
+C:\Users\thijm\source\repos\Extensions\PlayersGuide\LevelFour\obj\Debug\net7.0\ref\LevelFour.dll

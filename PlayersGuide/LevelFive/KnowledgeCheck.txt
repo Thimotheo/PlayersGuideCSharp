@@ -1,0 +1,4 @@
+﻿Type, name and value
+True
+No
+answer, value1, delete_me, PI

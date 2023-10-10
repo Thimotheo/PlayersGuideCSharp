@@ -87,8 +87,6 @@ C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\bin\Debug\net7.
 C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\bin\Debug\net7.0\ValidationExtensions.dll
-C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\bin\Debug\net7.0\ValidationExtensions.pdb
 C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\obj\Debug\net7.0\ExtensionTests.csproj.AssemblyReference.cache
 C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\obj\Debug\net7.0\ExtensionTests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\obj\Debug\net7.0\ExtensionTests.AssemblyInfoInputs.cache
@@ -100,3 +98,5 @@ C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\obj\Debug\net7.
 C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\obj\Debug\net7.0\ExtensionTests.pdb
 C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\obj\Debug\net7.0\ExtensionTests.genruntimeconfig.cache
 C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\obj\Debug\net7.0\ref\ExtensionTests.dll
+C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\bin\Debug\net7.0\MyValidationExtensions.dll
+C:\Users\thijm\source\repos\Extensions\Extensions\ExtensionTests\bin\Debug\net7.0\MyValidationExtensions.pdb

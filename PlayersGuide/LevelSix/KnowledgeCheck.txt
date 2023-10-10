@@ -1,0 +1,9 @@
+﻿False
+byte, short, int, long
+False
+uint
+float, double, decimal
+double
+decimal
+string
+bool

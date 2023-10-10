@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ValidationExtensions\ValidationExtensions.csproj" />
+    <ProjectReference Include="..\ValidationExtensions\MyValidationExtensions.csproj" />
   </ItemGroup>
 
 </Project>

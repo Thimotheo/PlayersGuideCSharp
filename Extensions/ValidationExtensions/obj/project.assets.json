@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thijm\\source\\repos\\Extensions\\Extensions\\ValidationExtensions\\ValidationExtensions.csproj",
-      "projectName": "ValidationExtensions",
-      "projectPath": "C:\\Users\\thijm\\source\\repos\\Extensions\\Extensions\\ValidationExtensions\\ValidationExtensions.csproj",
+      "projectUniqueName": "C:\\Users\\thijm\\source\\repos\\Extensions\\Extensions\\ValidationExtensions\\MyValidationExtensions.csproj",
+      "projectName": "MyValidationExtensions",
+      "projectPath": "C:\\Users\\thijm\\source\\repos\\Extensions\\Extensions\\ValidationExtensions\\MyValidationExtensions.csproj",
       "packagesPath": "C:\\Users\\thijm\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\thijm\\source\\repos\\Extensions\\Extensions\\ValidationExtensions\\obj\\",
       "projectStyle": "PackageReference",
@@ -24,6 +24,7 @@
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+        "C:\\Users\\thijm\\source\\repos\\Extensions\\Extensions\\NuGet.Config",
         "C:\\Users\\thijm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -32,8 +33,7 @@
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://pkgs.dev.azure.com/thijmenaarts/Extensions/_packaging/ThijmensValidationExtensions/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
