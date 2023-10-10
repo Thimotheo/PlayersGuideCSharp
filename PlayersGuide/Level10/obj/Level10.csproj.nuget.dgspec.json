@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\Level10\\Level10.csproj": {}
+    "C:\\Users\\thijm\\Source\\Repos\\Extensions\\PlayersGuide\\Level10\\Level10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\Level10\\Level10.csproj": {
+    "C:\\Users\\thijm\\Source\\Repos\\Extensions\\PlayersGuide\\Level10\\Level10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\Level10\\Level10.csproj",
+        "projectUniqueName": "C:\\Users\\thijm\\Source\\Repos\\Extensions\\PlayersGuide\\Level10\\Level10.csproj",
         "projectName": "Level10",
-        "projectPath": "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\Level10\\Level10.csproj",
+        "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Extensions\\PlayersGuide\\Level10\\Level10.csproj",
         "packagesPath": "C:\\Users\\thijm\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\thijm\\source\\repos\\Extensions\\PlayersGuide\\Level10\\obj\\",
         "projectStyle": "PackageReference",
