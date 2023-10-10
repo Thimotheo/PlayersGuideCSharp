@@ -12,7 +12,7 @@ namespace Level13
         public static void ToZero(int number)
         {
 
-            if (number == 1) { return; }
+            if (number == 0) { return; }
 
             Console.WriteLine(number);
             ToZero(number - 1);
