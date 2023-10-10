@@ -26,6 +26,8 @@
                 else break;
             }
             Console.WriteLine("You have guessed the number correctly!");
+
+            Countdown.ToZero(10);
         }
     }
 }
