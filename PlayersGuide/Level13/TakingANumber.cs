@@ -15,7 +15,7 @@ namespace Level13
             return input;
         }
 
-        public int AskForANumberInRange(string text, int min, int max)
+        public static int AskForANumberInRange(string text, int min, int max)
         {
 
             while (true)
