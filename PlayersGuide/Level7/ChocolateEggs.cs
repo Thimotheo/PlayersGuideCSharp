@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Level13;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,8 +11,8 @@ namespace Level7
     {
         public static void Calculations()
         {
-            Console.WriteLine("How many eggs have you collected today?");
-            int collected = Convert.ToInt32(Console.ReadLine());
+
+            int collected = TakingANumber.AskForANumber("How many eggs have you collected today?");
             int forSister = collected / 4;
             int forDuckbear = collected % 4;
 

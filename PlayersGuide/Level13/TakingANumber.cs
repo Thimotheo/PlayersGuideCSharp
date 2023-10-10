@@ -8,7 +8,7 @@ namespace Level13
 {
     public class TakingANumber
     {
-        public int AskForANumber(string text)
+        public static int AskForANumber(string text)
         {
             Console.WriteLine(text);
             int input = Convert.ToInt32(Console.ReadLine());

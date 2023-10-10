@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            TriangleFarmer.Calculations();
+            //TriangleFarmer.Calculations();
+            ChocolateEggs.Calculations();
+            //Dominion.Calculations();
         }
     }
 }

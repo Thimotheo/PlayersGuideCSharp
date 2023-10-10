@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Level13/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Level13.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Level13.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Level13/1.0.0": {
+      "type": "project",
+      "path": "../Level13/Level13.csproj",
+      "msbuildProject": "../Level13/Level13.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Level13 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\thijm\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj": {
+              "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

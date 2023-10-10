@@ -14,6 +14,7 @@
             Console.WriteLine("7 - Food Supplies");
             Console.WriteLine("What item do you want to see the price of?");
             BuyingInventory.DeterminePrice();
+            DiscountedInventory.UpdatedPrices();
         }
     }
 }

@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             ClockTower.Repairs();
+            WatchTower.Location();
         }
     }
 }
