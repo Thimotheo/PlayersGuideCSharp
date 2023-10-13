@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level12\\Level12.csproj": {}
+    "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level12\\Level12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level12\\Level12.csproj": {
+    "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level12\\Level12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level12\\Level12.csproj",
+        "projectUniqueName": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level12\\Level12.csproj",
         "projectName": "Level12",
-        "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level12\\Level12.csproj",
+        "projectPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level12\\Level12.csproj",
         "packagesPath": "C:\\Users\\thijm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level12\\obj\\",
+        "outputPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level12\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.111\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.112\\RuntimeIdentifierGraph.json"
         }
       }
     }

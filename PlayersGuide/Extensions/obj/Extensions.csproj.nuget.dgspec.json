@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Extensions\\Extensions.csproj": {}
+    "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Extensions\\Extensions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Extensions\\Extensions.csproj": {
+    "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Extensions\\Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Extensions\\Extensions.csproj",
+        "projectUniqueName": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Extensions\\Extensions.csproj",
         "projectName": "Extensions",
-        "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Extensions\\Extensions.csproj",
+        "projectPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Extensions\\Extensions.csproj",
         "packagesPath": "C:\\Users\\thijm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Extensions\\obj\\",
+        "outputPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.111\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.112\\RuntimeIdentifierGraph.json"
         }
       }
     }

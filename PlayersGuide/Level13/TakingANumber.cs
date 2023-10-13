@@ -21,7 +21,7 @@ namespace Level13
             while (true)
             {
                 int number = AskForANumber(text);
-                if (number <= min && number >= max)
+                if (number >= min && number <= max)
                 {
                     return number;
                 }
