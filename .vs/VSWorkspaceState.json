@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PlayersGuide",
+    "\\PlayersGuide\\Level13"
   ],
-  "SelectedNode": "\\PlayersGuide.sln",
+  "SelectedNode": "\\PlayersGuide\\PlayersGuide.sln",
   "PreviewInSolutionExplorer": false
 }
