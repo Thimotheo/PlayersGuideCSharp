@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cCjPTZ8p7kPYo5qxGdL1TzM5pR8FWX6xoTUPof+7CSzLlUZ7e944QStEBPSHcnj1/yKFfFQTjkhBLfw2MWZAFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level14\\Level14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thijm\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\thijm\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
