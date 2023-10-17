@@ -11,7 +11,7 @@
         "projectName": "Level14",
         "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level14\\Level14.csproj",
         "packagesPath": "C:\\Users\\thijm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level14\\obj\\",
+        "outputPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level14\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
