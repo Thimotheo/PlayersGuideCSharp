@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level7\\Level7.csproj": {}
+    "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level7\\Level7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj": {
+    "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj",
+        "projectUniqueName": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj",
         "projectName": "Level13",
-        "projectPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj",
+        "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj",
         "packagesPath": "C:\\Users\\thijm\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\obj\\",
         "projectStyle": "PackageReference",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level7\\Level7.csproj": {
+    "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level7\\Level7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level7\\Level7.csproj",
+        "projectUniqueName": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level7\\Level7.csproj",
         "projectName": "Level7",
-        "projectPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level7\\Level7.csproj",
+        "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level7\\Level7.csproj",
         "packagesPath": "C:\\Users\\thijm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level7\\obj\\",
+        "outputPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj": {
-                "projectPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj"
+              "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj": {
+                "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\Level13\\Level13.csproj"
               }
             }
           }
