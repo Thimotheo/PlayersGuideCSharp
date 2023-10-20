@@ -33,23 +33,24 @@ namespace Level14
 
                 int input = CheckForNumber("Enter desired cannon range: ");
                 {
-
+                    Console.ForegroundColor = ConsoleColor.Yellow;
                     Console.WriteLine($"\r\nThat round {ShotPlacement()} the target.");
 
-                    if (manticoreHP > 0) { cityHP--; }
-                    if (placement == input) { manticoreHP -= damage; }
+                    if (manticoreHP > 0)
+                        cityHP--;
+
+                    if (placement == input)
+                        manticoreHP -= damage;
 
                     roundNumber++;
 
                     string ShotPlacement()
                     {
-                        Console.ForegroundColor = ConsoleColor.Yellow;
                         if (placement < input) { return "OVERSHOT"; }
                         else if (placement > input) { return "FELL SHORT OF"; }
                         else { return "HIT"; }
                     }
                 }
-
 
                 int CannonDamageCalc(int roundNumber)
                 {
@@ -61,8 +62,6 @@ namespace Level14
                         return 3;
                     return 1;
                 }
-
-
 
                 if (cityHP == 0)
                 {
@@ -77,6 +76,7 @@ namespace Level14
                 }
 
             }
+
             int CheckForNumber(string text)
             {
                 int input = 0;
