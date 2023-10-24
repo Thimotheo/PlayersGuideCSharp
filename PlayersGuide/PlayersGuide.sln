@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level16", "Level16\Level16.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level17Tuples", "Level17Tuples\Level17Tuples.csproj", "{0F0D8100-BB1B-410F-94AF-B36E51588216}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level18Classes", "Level18Classes\Level18Classes.csproj", "{B7106336-C00E-4CBF-BCF8-70BBCD7E2ACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level18Classes", "Level18Classes\Level18Classes.csproj", "{B7106336-C00E-4CBF-BCF8-70BBCD7E2ACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level19InfoHiding", "Level19InfoHiding\Level19InfoHiding.csproj", "{F143F6DE-0435-47D2-ABFB-B2D0D022056A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{B7106336-C00E-4CBF-BCF8-70BBCD7E2ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7106336-C00E-4CBF-BCF8-70BBCD7E2ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7106336-C00E-4CBF-BCF8-70BBCD7E2ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F143F6DE-0435-47D2-ABFB-B2D0D022056A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F143F6DE-0435-47D2-ABFB-B2D0D022056A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F143F6DE-0435-47D2-ABFB-B2D0D022056A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F143F6DE-0435-47D2-ABFB-B2D0D022056A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
