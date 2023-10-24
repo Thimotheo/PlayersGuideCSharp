@@ -20,7 +20,7 @@ namespace Extensions
             while (true)
             {
                 int number = AskForNumber(text);
-                if (number <= min && number >= max)
+                if (number >= min && number <= max)
                 {
                     return number;
                 }
