@@ -26,7 +26,7 @@ namespace Level18Classes
             ArrowheadType GetArrowheadType()
             {
                 Console.WriteLine("What type of arrowhead do you want? (steel, wood, obsidian) ");
-                string input = Console.ReadLine();
+                string? input = Console.ReadLine();
                 return input switch
                 {
                     "steel" => ArrowheadType.Steel,
@@ -39,7 +39,7 @@ namespace Level18Classes
             FletchingType GetFletchingType()
             {
                 Console.WriteLine("What type of fletching do you want? (plastic, turkey feathers, goose feathers)");
-                string input = Console.ReadLine();
+                string? input = Console.ReadLine();
                 return input switch
                 {
                     "plastic" => FletchingType.Plastic,
