@@ -1,0 +1,15 @@
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\bin\Debug\net7.0\Level17Tuples.exe
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\bin\Debug\net7.0\Level17Tuples.deps.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\bin\Debug\net7.0\Level17Tuples.runtimeconfig.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\bin\Debug\net7.0\Level17Tuples.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\bin\Debug\net7.0\Level17Tuples.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\obj\Debug\net7.0\Level17Tuples.csproj.AssemblyReference.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\obj\Debug\net7.0\Level17Tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\obj\Debug\net7.0\Level17Tuples.AssemblyInfoInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\obj\Debug\net7.0\Level17Tuples.AssemblyInfo.cs
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\obj\Debug\net7.0\Level17Tuples.csproj.CoreCompileInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\obj\Debug\net7.0\Level17Tuples.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\obj\Debug\net7.0\refint\Level17Tuples.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\obj\Debug\net7.0\Level17Tuples.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\obj\Debug\net7.0\Level17Tuples.genruntimeconfig.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level17Tuples\obj\Debug\net7.0\ref\Level17Tuples.dll
