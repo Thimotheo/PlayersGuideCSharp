@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelOne\\LevelOne.csproj",
+      "projectUniqueName": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelOne\\LevelOne.csproj",
       "projectName": "LevelOne",
-      "projectPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelOne\\LevelOne.csproj",
+      "projectPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelOne\\LevelOne.csproj",
       "packagesPath": "C:\\Users\\thijm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thijm\\source\\repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelOne\\obj\\",
+      "outputPath": "C:\\Users\\thijm\\Source\\Repos\\Thimotheo\\PlayersGuideCSharp\\PlayersGuide\\LevelOne\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.112\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.113\\RuntimeIdentifierGraph.json"
       }
     }
   }
