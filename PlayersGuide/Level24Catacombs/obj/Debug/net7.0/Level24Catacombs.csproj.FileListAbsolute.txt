@@ -1,0 +1,15 @@
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\bin\Debug\net7.0\Level24Catacombs.exe
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\bin\Debug\net7.0\Level24Catacombs.deps.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\bin\Debug\net7.0\Level24Catacombs.runtimeconfig.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\bin\Debug\net7.0\Level24Catacombs.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\bin\Debug\net7.0\Level24Catacombs.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\obj\Debug\net7.0\Level24Catacombs.csproj.AssemblyReference.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\obj\Debug\net7.0\Level24Catacombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\obj\Debug\net7.0\Level24Catacombs.AssemblyInfoInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\obj\Debug\net7.0\Level24Catacombs.AssemblyInfo.cs
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\obj\Debug\net7.0\Level24Catacombs.csproj.CoreCompileInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\obj\Debug\net7.0\Level24Catacombs.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\obj\Debug\net7.0\refint\Level24Catacombs.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\obj\Debug\net7.0\Level24Catacombs.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\obj\Debug\net7.0\Level24Catacombs.genruntimeconfig.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level24Catacombs\obj\Debug\net7.0\ref\Level24Catacombs.dll
