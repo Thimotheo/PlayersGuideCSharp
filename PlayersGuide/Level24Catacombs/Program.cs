@@ -1,5 +1,6 @@
 ﻿using static Level24Catacombs.CardColors;
 using static Level24Catacombs.CardRanks;
+using static Level24Catacombs.DoorStates;
 
 namespace Level24Catacombs
 {
@@ -9,7 +10,8 @@ namespace Level24Catacombs
         {
             //Point();
             //ColorCall();
-            Card();
+            //Card();
+            LockedDoor();
         }
 
         static void Point()
@@ -41,6 +43,53 @@ namespace Level24Catacombs
                 {
                     Console.WriteLine($"The {color} {rank}");
                 }
+            }
+        }
+
+        static void LockedDoor()
+        {
+
+            int initialPasscode = GetNumber("What is the initial passcode?");
+            Door door = new(initialPasscode);
+
+            while (true)
+            {
+                Console.WriteLine($"The door is {LowerCase(door.CurrentState)}. What do you want to do? (open, close, lock, unlock, change passcode)");
+                string? choice = Console.ReadLine();
+                switch (choice)
+                {
+                    case "open":
+                        door.OpenDoor();
+                        break;
+                    case "close":
+                        door.CloseDoor();
+                        break;
+                    case "lock":
+                        door.LockDoor();
+                        break;
+                    case "unlock":
+                        door.UnlockDoor(initialPasscode);
+                        break;
+                    case "change passcode":
+                        int currentPasscode = GetNumber("What is the current passcode?");
+                        int newPasscode = GetNumber("What do you want to change it to?");
+                        door.ChangePasscode(currentPasscode, newPasscode);
+                        break;
+                    default:
+                        Console.WriteLine("Nothing happened. Please use the correct command.");
+                        break;
+
+                }
+            }
+
+            int GetNumber(string input)
+            {
+                Console.WriteLine(input);
+                return Convert.ToInt32(Console.ReadLine());
+            }
+            string LowerCase(DoorState doorState)
+            {
+                return doorState.ToString().ToLower();
             }
         }
     }
