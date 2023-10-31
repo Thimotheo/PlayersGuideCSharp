@@ -9,10 +9,10 @@ namespace Level24Catacombs
         static void Main(string[] args)
         {
             //Point();
-            ColorCall();
+            //ColorCall();
             //Card();
             //LockedDoor();
-            //ValidatePassword();
+            ValidatePassword();
         }
 
         static void Point()
