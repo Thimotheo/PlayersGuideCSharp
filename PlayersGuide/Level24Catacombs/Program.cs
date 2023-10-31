@@ -11,7 +11,8 @@ namespace Level24Catacombs
             //Point();
             //ColorCall();
             //Card();
-            LockedDoor();
+            //LockedDoor();
+            ValidatePassword();
         }
 
         static void Point()
@@ -68,7 +69,8 @@ namespace Level24Catacombs
                         door.LockDoor();
                         break;
                     case "unlock":
-                        door.UnlockDoor(initialPasscode);
+                        int passCode = GetNumber("What is the passcode?");
+                        door.UnlockDoor(passCode);
                         break;
                     case "change passcode":
                         int currentPasscode = GetNumber("What is the current passcode?");
@@ -90,6 +92,25 @@ namespace Level24Catacombs
             string LowerCase(DoorState doorState)
             {
                 return doorState.ToString().ToLower();
+            }
+
+
+        }
+
+        static void ValidatePassword()
+        {
+            PasswordValidator validator = new PasswordValidator();
+
+            while (true)
+            {
+                Console.WriteLine("What is the password you want to check?");
+                string? password = Console.ReadLine();
+
+                if (password == null) { break; }
+
+                if (validator.IsValid(password))
+                    Console.WriteLine("This password is valid.");
+                else Console.WriteLine("This password is not valid.");
             }
         }
     }
