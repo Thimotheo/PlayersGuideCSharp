@@ -9,10 +9,10 @@ namespace Level24Catacombs
         static void Main(string[] args)
         {
             //Point();
-            //ColorCall();
+            ColorCall();
             //Card();
             //LockedDoor();
-            ValidatePassword();
+            //ValidatePassword();
         }
 
         static void Point()
@@ -29,8 +29,8 @@ namespace Level24Catacombs
             Color random = new Color(180, 180, 180);
             Color blue = Color.Blue;
 
-            Console.WriteLine($"{random}");
-            Console.WriteLine($"{blue}");
+            Console.WriteLine($"R: {random.R}, G: {random.G}, B: {random.B}");
+            Console.WriteLine($"R: {blue.R}, G: {blue.G}, B: {blue.B}");
         }
 
         static void Card()
