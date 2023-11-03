@@ -12,7 +12,8 @@ namespace Level24Catacombs
             //ColorCall();
             //Card();
             //LockedDoor();
-            ValidatePassword();
+            //ValidatePassword();
+            new TicTacToe.TicTacToe().Run();
         }
 
         static void Point()
@@ -113,5 +114,7 @@ namespace Level24Catacombs
                 else Console.WriteLine("This password is not valid.");
             }
         }
+
+
     }
 }
