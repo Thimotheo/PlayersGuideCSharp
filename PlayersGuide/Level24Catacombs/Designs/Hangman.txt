@@ -1,0 +1,6 @@
+﻿RandomWordGenerator()
+Bool Win()
+Bool Correct()
+
+DisplayState()
+UpdateState()

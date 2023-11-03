@@ -1,0 +1,5 @@
+﻿GenerateRandom()
+MovesTracker()
+Bool Win()
+
+DisplayMoves()
