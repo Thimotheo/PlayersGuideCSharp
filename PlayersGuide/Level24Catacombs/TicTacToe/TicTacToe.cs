@@ -59,20 +59,18 @@ namespace Level24Catacombs.TicTacToe
         private bool IsWinner(BoardInfo board, Cell playerInput)
         {
             //rows
-            if (board.GetContentsOfCell(0, 0) == playerInput && board.GetContentsOfCell(0, 1) == playerInput && board.GetContentsOfCell(0, 2) == playerInput)
-                return true;
-            if (board.GetContentsOfCell(1, 0) == playerInput && board.GetContentsOfCell(1, 1) == playerInput && board.GetContentsOfCell(1, 2) == playerInput)
-                return true;
-            if (board.GetContentsOfCell(2, 0) == playerInput && board.GetContentsOfCell(2, 1) == playerInput && board.GetContentsOfCell(2, 2) == playerInput)
-                return true;
+            for (int row = 0; row < 3; row++)
+            {
+                if (board.GetContentsOfCell(row, 0) == playerInput && board.GetContentsOfCell(row, 1) == playerInput && board.GetContentsOfCell(row, 2) == playerInput)
+                    return true;
+            }
 
             //columns
-            if (board.GetContentsOfCell(0, 0) == playerInput && board.GetContentsOfCell(1, 0) == playerInput && board.GetContentsOfCell(2, 0) == playerInput)
-                return true;
-            if (board.GetContentsOfCell(0, 1) == playerInput && board.GetContentsOfCell(1, 1) == playerInput && board.GetContentsOfCell(1, 2) == playerInput)
-                return true;
-            if (board.GetContentsOfCell(0, 2) == playerInput && board.GetContentsOfCell(1, 2) == playerInput && board.GetContentsOfCell(2, 2) == playerInput)
-                return true;
+            for (int column = 0; column < 3; column++)
+            {
+                if (board.GetContentsOfCell(0, column) == playerInput && board.GetContentsOfCell(1, column) == playerInput && board.GetContentsOfCell(2, column) == playerInput)
+                    return true;
+            }
 
             //diagonals
             if (board.GetContentsOfCell(0, 0) == playerInput && board.GetContentsOfCell(1, 1) == playerInput && board.GetContentsOfCell(2, 2) == playerInput)
@@ -93,5 +91,6 @@ namespace Level24Catacombs.TicTacToe
 
         //if we needed multiple rounds, I'd write a method at the start to determine how many rounds you want
         //and one to keep score between individual games
+        //plus, you can loop the game
     }
 }
