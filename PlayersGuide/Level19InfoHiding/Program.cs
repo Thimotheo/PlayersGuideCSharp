@@ -10,7 +10,6 @@ namespace Level19InfoHiding
         {
             Arrow arrow = GetArrow();
             Console.WriteLine($"This arrow costs {arrow.GetCost()} gold.");
-
             Arrow GetArrow()
             {
                 ArrowheadType arrowhead = GetArrowheadType();
@@ -52,5 +51,6 @@ namespace Level19InfoHiding
                 return length;
             }
         }
+
     }
 }

@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level21Static", "Level21Sta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level24Catacombs", "Level24Catacombs\Level24Catacombs.csproj", "{C28B06A0-D446-46F4-8DCE-E5FFDD1157F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level25Inheritance", "Level25Inheritance\Level25Inheritance.csproj", "{BF866299-A6AF-4DAC-8B99-4D7CB4C4CE48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level25Inheritance", "Level25Inheritance\Level25Inheritance.csproj", "{BF866299-A6AF-4DAC-8B99-4D7CB4C4CE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level26Polymorphism", "Level26Polymorphism\Level26Polymorphism.csproj", "{155E724B-D0E2-4B05-8789-1F3B1A36068F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{BF866299-A6AF-4DAC-8B99-4D7CB4C4CE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF866299-A6AF-4DAC-8B99-4D7CB4C4CE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF866299-A6AF-4DAC-8B99-4D7CB4C4CE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155E724B-D0E2-4B05-8789-1F3B1A36068F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155E724B-D0E2-4B05-8789-1F3B1A36068F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155E724B-D0E2-4B05-8789-1F3B1A36068F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155E724B-D0E2-4B05-8789-1F3B1A36068F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

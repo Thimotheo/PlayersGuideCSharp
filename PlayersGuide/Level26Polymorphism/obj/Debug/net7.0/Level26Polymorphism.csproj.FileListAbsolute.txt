@@ -1,0 +1,15 @@
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\bin\Debug\net7.0\Level26Polymorphism.exe
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\bin\Debug\net7.0\Level26Polymorphism.deps.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\bin\Debug\net7.0\Level26Polymorphism.runtimeconfig.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\bin\Debug\net7.0\Level26Polymorphism.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\bin\Debug\net7.0\Level26Polymorphism.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\obj\Debug\net7.0\Level26Polymorphism.csproj.AssemblyReference.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\obj\Debug\net7.0\Level26Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\obj\Debug\net7.0\Level26Polymorphism.AssemblyInfoInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\obj\Debug\net7.0\Level26Polymorphism.AssemblyInfo.cs
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\obj\Debug\net7.0\Level26Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\obj\Debug\net7.0\Level26Polymorphism.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\obj\Debug\net7.0\refint\Level26Polymorphism.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\obj\Debug\net7.0\Level26Polymorphism.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\obj\Debug\net7.0\Level26Polymorphism.genruntimeconfig.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level26Polymorphism\obj\Debug\net7.0\ref\Level26Polymorphism.dll
