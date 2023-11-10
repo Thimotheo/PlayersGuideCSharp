@@ -1,0 +1,15 @@
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\bin\Debug\net7.0\Level25Inheritance.exe
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\bin\Debug\net7.0\Level25Inheritance.deps.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\bin\Debug\net7.0\Level25Inheritance.runtimeconfig.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\bin\Debug\net7.0\Level25Inheritance.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\bin\Debug\net7.0\Level25Inheritance.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\obj\Debug\net7.0\Level25Inheritance.csproj.AssemblyReference.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\obj\Debug\net7.0\Level25Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\obj\Debug\net7.0\Level25Inheritance.AssemblyInfoInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\obj\Debug\net7.0\Level25Inheritance.AssemblyInfo.cs
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\obj\Debug\net7.0\Level25Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\obj\Debug\net7.0\Level25Inheritance.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\obj\Debug\net7.0\refint\Level25Inheritance.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\obj\Debug\net7.0\Level25Inheritance.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\obj\Debug\net7.0\Level25Inheritance.genruntimeconfig.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level25Inheritance\obj\Debug\net7.0\ref\Level25Inheritance.dll

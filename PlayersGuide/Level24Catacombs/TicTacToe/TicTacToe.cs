@@ -61,14 +61,18 @@ namespace Level24Catacombs.TicTacToe
             //rows
             for (int row = 0; row < 3; row++)
             {
-                if (board.GetContentsOfCell(row, 0) == playerInput && board.GetContentsOfCell(row, 1) == playerInput && board.GetContentsOfCell(row, 2) == playerInput)
+                if (board.GetContentsOfCell(row, 0) == playerInput &&
+                    board.GetContentsOfCell(row, 1) == playerInput
+                    && board.GetContentsOfCell(row, 2) == playerInput)
                     return true;
             }
 
             //columns
             for (int column = 0; column < 3; column++)
             {
-                if (board.GetContentsOfCell(0, column) == playerInput && board.GetContentsOfCell(1, column) == playerInput && board.GetContentsOfCell(2, column) == playerInput)
+                if (board.GetContentsOfCell(0, column) == playerInput &&
+                    board.GetContentsOfCell(1, column) == playerInput &&
+                    board.GetContentsOfCell(2, column) == playerInput)
                     return true;
             }
 
