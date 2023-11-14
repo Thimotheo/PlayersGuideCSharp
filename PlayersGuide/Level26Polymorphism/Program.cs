@@ -25,7 +25,7 @@ namespace Level26Polymorphism
 
             for (int i = 0; i < robot.Commands.Length; i++)
             {
-                string input = Console.ReadLine();
+                string? input = Console.ReadLine();
                 RobotCommand newCommand = input switch
                 {
                     "on" => new OnCommand(),
@@ -34,6 +34,7 @@ namespace Level26Polymorphism
                     "north" => new NorthCommand(),
                     "west" => new WestCommand(),
                     "east" => new EastCommand(),
+                    _ => throw new NotImplementedException(),
                 };
 
                 robot.Commands[i] = newCommand;
