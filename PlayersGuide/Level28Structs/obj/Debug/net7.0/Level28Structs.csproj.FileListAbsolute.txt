@@ -1,0 +1,15 @@
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\bin\Debug\net7.0\Level28Structs.exe
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\bin\Debug\net7.0\Level28Structs.deps.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\bin\Debug\net7.0\Level28Structs.runtimeconfig.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\bin\Debug\net7.0\Level28Structs.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\bin\Debug\net7.0\Level28Structs.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\obj\Debug\net7.0\Level28Structs.csproj.AssemblyReference.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\obj\Debug\net7.0\Level28Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\obj\Debug\net7.0\Level28Structs.AssemblyInfoInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\obj\Debug\net7.0\Level28Structs.AssemblyInfo.cs
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\obj\Debug\net7.0\Level28Structs.csproj.CoreCompileInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\obj\Debug\net7.0\Level28Structs.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\obj\Debug\net7.0\refint\Level28Structs.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\obj\Debug\net7.0\Level28Structs.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\obj\Debug\net7.0\Level28Structs.genruntimeconfig.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level28Structs\obj\Debug\net7.0\ref\Level28Structs.dll
