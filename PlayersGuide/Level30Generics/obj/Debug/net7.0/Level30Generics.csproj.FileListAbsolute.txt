@@ -1,0 +1,15 @@
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\bin\Debug\net7.0\Level30Generics.exe
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\bin\Debug\net7.0\Level30Generics.deps.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\bin\Debug\net7.0\Level30Generics.runtimeconfig.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\bin\Debug\net7.0\Level30Generics.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\bin\Debug\net7.0\Level30Generics.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\obj\Debug\net7.0\Level30Generics.csproj.AssemblyReference.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\obj\Debug\net7.0\Level30Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\obj\Debug\net7.0\Level30Generics.AssemblyInfoInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\obj\Debug\net7.0\Level30Generics.AssemblyInfo.cs
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\obj\Debug\net7.0\Level30Generics.csproj.CoreCompileInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\obj\Debug\net7.0\Level30Generics.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\obj\Debug\net7.0\refint\Level30Generics.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\obj\Debug\net7.0\Level30Generics.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\obj\Debug\net7.0\Level30Generics.genruntimeconfig.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level30Generics\obj\Debug\net7.0\ref\Level30Generics.dll
