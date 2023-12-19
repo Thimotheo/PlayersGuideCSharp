@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Level27Interfaces/1.0.0": {
+        "runtime": {
+          "Level27Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Level27Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

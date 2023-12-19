@@ -1,0 +1,15 @@
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\bin\Debug\net7.0\Level27Interfaces.exe
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\bin\Debug\net7.0\Level27Interfaces.deps.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\bin\Debug\net7.0\Level27Interfaces.runtimeconfig.json
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\bin\Debug\net7.0\Level27Interfaces.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\bin\Debug\net7.0\Level27Interfaces.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\obj\Debug\net7.0\Level27Interfaces.csproj.AssemblyReference.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\obj\Debug\net7.0\Level27Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\obj\Debug\net7.0\Level27Interfaces.AssemblyInfoInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\obj\Debug\net7.0\Level27Interfaces.AssemblyInfo.cs
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\obj\Debug\net7.0\Level27Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\obj\Debug\net7.0\Level27Interfaces.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\obj\Debug\net7.0\refint\Level27Interfaces.dll
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\obj\Debug\net7.0\Level27Interfaces.pdb
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\obj\Debug\net7.0\Level27Interfaces.genruntimeconfig.cache
+C:\Users\thijm\Source\Repos\Thimotheo\PlayersGuideCSharp\PlayersGuide\Level27Interfaces\obj\Debug\net7.0\ref\Level27Interfaces.dll
